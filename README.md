@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alendwahida
-- ✨ Cloud System Admin
+- ✨ AWS Cloud Practitioner
 - 📫 [Linkedin](https://www.linkedin.com/in/alendwahida)
 
 <!---
