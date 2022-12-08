@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @alendwahida
-- ✨ AWS Cloud Practitioner
+- :video_game: AWS Cloud Practitioner
 - 📫 [Linkedin](https://www.linkedin.com/in/alendwahida)
 
 <!---
